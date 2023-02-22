@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head{
+    font-size: 25px;
+    background-color: blue;
+    color: white;
+}
+.free{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+ul{
+    float: right;
+    margin-right: 50px;
+    margin-top: -30px;
+}
+nav ul li{
+    display: inline-block;
+    text-indent: 3em;
+     
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
